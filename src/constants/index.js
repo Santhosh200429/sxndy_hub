@@ -44,7 +44,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Full-Stack Developer",
+    title: "Web Developer",
     icon: web,
   },
   {
@@ -129,13 +129,13 @@ const technologies = [
   },
 ];
 
-const experiences = [
+const education = [
   {
-    title: "Full-Stack Developer",
-    company_name: "Tekisky",
+    title: "B.Sc. Computer Science",
+    company_name: "S.S.S College of Arts and Science ",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "Jan 2025",
+    date: "2022-2025",
     points: [
       "Developing and maintaining web applications using MERN technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
